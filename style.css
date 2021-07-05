@@ -1,0 +1,59 @@
+h1{
+    font-family: 'Otomanopee One', sans-serif;
+}
+.first-header-style{
+    color: coral;
+}
+.contain-set{
+    display: flex;
+    margin-top: 8%;
+    margin-left: 7%;
+}
+.half-width{
+    width: 50%;
+    
+    
+}
+.half-width img{
+    width: 100%;
+    border-radius: 15px;
+   
+}
+.set-button{
+    text-decoration: none;
+    background-color: rgb(24, 236, 24);
+    padding: 12px 20px;
+    border-radius: 22px;
+}
+.resize-image{
+    width:30%;
+    height: 40%;
+}
+.background-set{
+    background-image: url(images/bg-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.text-reset{
+    text-align: center;
+    
+}
+.recipies-devider{
+
+    padding: 20px;
+    box-shadow: 5px 10px 40px black;
+    border-radius: 20px;
+    margin: 20px;
+    
+}
+.footer-manu{
+    color: darkolivegreen;
+    background-color: black;
+    width: 100%; 
+    height: 200px;
+    text-align: center;
+    font-size: 1.5em;
+    
+   
+}
