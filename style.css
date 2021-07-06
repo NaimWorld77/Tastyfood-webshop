@@ -37,11 +37,16 @@ h1{
     background-size: cover;
 
 }
+.text-order{
+    padding-left: 20%;
+    text-align: justify;
+}
 .text-reset{
     text-align: center;
     
+    
 }
-.recipies-devider{
+.shadow-effect{
 
     padding: 20px;
     box-shadow: 5px 10px 40px black;
@@ -51,11 +56,15 @@ h1{
 }
 .footer-manu{
     color: darkolivegreen;
-    background-color: black;
+    background-color: rgb(6, 13, 19);
     width: 100%; 
-    height: 200px;
+    height: 100px;
     text-align: center;
     font-size: 1.5em;
     
    
+}
+#text-box{
+    width:500px;
+    height:150px
 }
